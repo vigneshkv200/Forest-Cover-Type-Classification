@@ -1,8 +1,4 @@
 # Project Portfolio: Forest Cover Type Classification
-
-**Proof of Work & Technical Showcase for Recruiters**  
-*An End-to-End Machine Learning Pipeline: From Exploratory Data Analysis to Optimized Gradient Boosting and Model Interpretability (SHAP).*
-
 ---
 
 ## 📌 Executive Summary
