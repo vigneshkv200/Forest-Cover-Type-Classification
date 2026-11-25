@@ -1,7 +1,7 @@
 # Project Portfolio: Forest Cover Type Classification
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 - **Objective**: Classify forest cover types (7 categories) based on cartographic variables including elevation, aspect, soil type, and distance to hydrology/roads/wildfire points.
 - **Top-Performing Model**: **Hyperparameter-Tuned LightGBM**
 - **Primary Metrics achieved on Test Set**:
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Software Engineering & ML Workflow
+##  Software Engineering & ML Workflow
 
 ### 1. Exploratory Data Analysis & Quality Control
 - Analyzed a dataset of **15,120 samples** across **56 initial features**.
